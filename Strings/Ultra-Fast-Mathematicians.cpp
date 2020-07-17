@@ -8,7 +8,7 @@ int main(){
 	for(int i=0;i<t;i++){
 	cin>>str1;
 	cin>>str2;
-
+	// optimising
 	for(int i=0;str1[i]!='\0';i++){
 		if(str1[i]==a or str1[i]==b){
         if(str2[i]==a or str2[i]==b){
